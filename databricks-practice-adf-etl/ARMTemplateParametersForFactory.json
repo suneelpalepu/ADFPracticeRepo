@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "databricks-practice-adf-etl"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
