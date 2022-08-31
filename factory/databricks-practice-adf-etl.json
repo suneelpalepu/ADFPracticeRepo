@@ -1,0 +1,9 @@
+{
+	"name": "databricks-practice-adf-etl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e296080-5ce4-4432-b65c-0e6c5d844c55",
+		"tenantId": "ded29131-8c94-43c6-b6c9-ae13848fddaf"
+	}
+}
